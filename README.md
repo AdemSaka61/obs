@@ -1,2 +1,4 @@
 # obs
-ogrenci bilgi sistemi
+ogrenci not sistemi
+## Düzenleyen
+* Edimain
